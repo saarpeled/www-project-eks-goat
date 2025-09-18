@@ -5,7 +5,7 @@ title: OWASP EKS Goat
 tags: example-tag
 level: 2
 type: code
-pitch: A very brief, one-line description of your project
+pitch: A very brief, one-line description of your project 
 
 ---
 
